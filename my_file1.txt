@@ -1,3 +1,2 @@
 Hello World
-My name is Robert
-I teach python
+My name is Csaba
